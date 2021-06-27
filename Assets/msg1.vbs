@@ -1,0 +1,1 @@
+x=Msgbox("Texto da preferencia",0,"exp: Se ferrou pegou virus!") 
